@@ -16,4 +16,8 @@ A Python + MySQL based command-line application to manage student records.
 1. Install Python 3 and MySQL
 2. Run the SQL script student_db.sql to create the database and table
 3. Install required packages: pip install -r requirements.txt
+<<<<<<< HEAD
 4. Run main.py in PyCharm
+=======
+4. Run main.py in PyCharm
+>>>>>>> 0dcabc96159c6a18aea2dcda5bf03c57dec4c1fd
